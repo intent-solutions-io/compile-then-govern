@@ -17,6 +17,7 @@
   <a href="https://github.com/jeremylongshore/bobs-big-brain-compiler/actions/workflows/ci.yml"><img src="https://github.com/jeremylongshore/bobs-big-brain-compiler/actions/workflows/ci.yml/badge.svg" alt="Compiler CI"></a>
   <a href="https://github.com/jeremylongshore/bobs-big-brain-registrar/actions/workflows/ci.yml"><img src="https://github.com/jeremylongshore/bobs-big-brain-registrar/actions/workflows/ci.yml/badge.svg" alt="Registrar CI"></a>
   <a href="https://www.npmjs.com/package/intentional-cognition-os"><img src="https://img.shields.io/npm/v/intentional-cognition-os?style=flat-square&logo=npm&label=compiler" alt="the compiler on npm"></a>
+<a href="https://ko-fi.com/U5S225PTME"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></a>
   <img src="https://img.shields.io/badge/License-Apache--2.0-10b981?style=flat-square" alt="License: Apache-2.0">
   <img src="https://img.shields.io/badge/local--first-on--device-0ea5e9?style=flat-square" alt="local-first">
 </p>
